@@ -1,0 +1,31 @@
+c:\users\jjaspe\documents\visual studio 2013\Projects\WallMaze\WallMaze\bin\Debug\WallMaze.exe.config
+c:\users\jjaspe\documents\visual studio 2013\Projects\WallMaze\WallMaze\bin\Debug\WallMaze.exe
+c:\users\jjaspe\documents\visual studio 2013\Projects\WallMaze\WallMaze\bin\Debug\WallMaze.pdb
+c:\users\jjaspe\documents\visual studio 2013\Projects\WallMaze\WallMaze\bin\Debug\OpenGlGameCommon.dll
+c:\users\jjaspe\documents\visual studio 2013\Projects\WallMaze\WallMaze\bin\Debug\Canvas Window Template.dll
+c:\users\jjaspe\documents\visual studio 2013\Projects\WallMaze\WallMaze\bin\Debug\CharacterSystemLibrary.dll
+c:\users\jjaspe\documents\visual studio 2013\Projects\WallMaze\WallMaze\bin\Debug\Tao.Platform.Windows.dll
+c:\users\jjaspe\documents\visual studio 2013\Projects\WallMaze\WallMaze\bin\Debug\ISE.FreeType.dll
+c:\users\jjaspe\documents\visual studio 2013\Projects\WallMaze\WallMaze\bin\Debug\Tao.OpenGl.dll
+c:\users\jjaspe\documents\visual studio 2013\Projects\WallMaze\WallMaze\bin\Debug\OpenGlGameCommon.pdb
+c:\users\jjaspe\documents\visual studio 2013\Projects\WallMaze\WallMaze\bin\Debug\Canvas Window Template.pdb
+c:\users\jjaspe\documents\visual studio 2013\Projects\WallMaze\WallMaze\obj\Debug\WallMaze.csprojResolveAssemblyReference.cache
+c:\users\jjaspe\documents\visual studio 2013\Projects\WallMaze\WallMaze\obj\Debug\WallMaze.Properties.Resources.resources
+c:\users\jjaspe\documents\visual studio 2013\Projects\WallMaze\WallMaze\obj\Debug\WallMaze.csproj.GenerateResource.Cache
+c:\users\jjaspe\documents\visual studio 2013\Projects\WallMaze\WallMaze\obj\Debug\WallMaze.exe
+c:\users\jjaspe\documents\visual studio 2013\Projects\WallMaze\WallMaze\obj\Debug\WallMaze.pdb
+c:\users\jjaspe\documents\visual studio 2013\Projects\WallMaze\WallMaze\obj\Debug\WallMaze.WallMaze.resources
+C:\Users\jjaspe\Documents\Git\WallMaze\WallMaze\bin\Debug\WallMaze.exe.config
+C:\Users\jjaspe\Documents\Git\WallMaze\WallMaze\obj\Debug\WallMaze.exe
+C:\Users\jjaspe\Documents\Git\WallMaze\WallMaze\obj\Debug\WallMaze.pdb
+C:\Users\jjaspe\Documents\Git\WallMaze\WallMaze\bin\Debug\WallMaze.exe
+C:\Users\jjaspe\Documents\Git\WallMaze\WallMaze\bin\Debug\WallMaze.pdb
+C:\Users\jjaspe\Documents\Git\WallMaze\WallMaze\bin\Debug\Canvas Window Template.dll
+C:\Users\jjaspe\Documents\Git\WallMaze\WallMaze\bin\Debug\ISE.FreeType.dll
+C:\Users\jjaspe\Documents\Git\WallMaze\WallMaze\bin\Debug\Canvas Window Template.pdb
+C:\Users\jjaspe\Documents\Git\WallMaze\WallMaze\obj\Debug\WallMaze.csprojResolveAssemblyReference.cache
+C:\Users\jjaspe\Documents\Git\WallMaze\WallMaze\obj\Debug\WallMaze.WallMaze.resources
+C:\Users\jjaspe\Documents\Git\WallMaze\WallMaze\obj\Debug\WallMaze.Properties.Resources.resources
+C:\Users\jjaspe\Documents\Git\WallMaze\WallMaze\obj\Debug\WallMaze.csproj.GenerateResource.Cache
+C:\Users\jjaspe\Documents\Git\WallMaze\WallMaze\bin\Debug\PerfectMazeSolver.dll
+C:\Users\jjaspe\Documents\Git\WallMaze\WallMaze\bin\Debug\PerfectMazeSolver.pdb

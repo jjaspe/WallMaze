@@ -1,0 +1,8 @@
+C:\Users\jjaspe\Documents\Git\WallMaze\MazeSolverTests\bin\Debug\MazeSolverTests.dll
+C:\Users\jjaspe\Documents\Git\WallMaze\MazeSolverTests\bin\Debug\MazeSolverTests.pdb
+C:\Users\jjaspe\Documents\Git\WallMaze\MazeSolverTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jjaspe\Documents\Git\WallMaze\MazeSolverTests\bin\Debug\PerfectMazeSolver.dll
+C:\Users\jjaspe\Documents\Git\WallMaze\MazeSolverTests\bin\Debug\PerfectMazeSolver.pdb
+C:\Users\jjaspe\Documents\Git\WallMaze\MazeSolverTests\obj\Debug\MazeSolverTests.csprojResolveAssemblyReference.cache
+C:\Users\jjaspe\Documents\Git\WallMaze\MazeSolverTests\obj\Debug\MazeSolverTests.dll
+C:\Users\jjaspe\Documents\Git\WallMaze\MazeSolverTests\obj\Debug\MazeSolverTests.pdb

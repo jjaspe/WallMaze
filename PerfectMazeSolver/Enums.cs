@@ -1,0 +1,1 @@
+﻿public enum Neighbors { Up,Right,Down,Left}

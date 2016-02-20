@@ -1,0 +1,21 @@
+C:\Users\jjaspe\Documents\Visual Studio 2013\Projects\WallMaze\Canvas Window Template Tests\obj\Debug\Canvas Window Template Tests.csprojResolveAssemblyReference.cache
+C:\Users\jjaspe\Documents\Visual Studio 2013\Projects\WallMaze\Canvas Window Template Tests\bin\Debug\Canvas_Window_Template_Tests.dll
+C:\Users\jjaspe\Documents\Visual Studio 2013\Projects\WallMaze\Canvas Window Template Tests\bin\Debug\Canvas_Window_Template_Tests.pdb
+C:\Users\jjaspe\Documents\Visual Studio 2013\Projects\WallMaze\Canvas Window Template Tests\bin\Debug\Canvas Window Template.dll
+C:\Users\jjaspe\Documents\Visual Studio 2013\Projects\WallMaze\Canvas Window Template Tests\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\jjaspe\Documents\Visual Studio 2013\Projects\WallMaze\Canvas Window Template Tests\bin\Debug\ISE.FreeType.dll
+C:\Users\jjaspe\Documents\Visual Studio 2013\Projects\WallMaze\Canvas Window Template Tests\bin\Debug\Tao.OpenGl.dll
+C:\Users\jjaspe\Documents\Visual Studio 2013\Projects\WallMaze\Canvas Window Template Tests\bin\Debug\Canvas Window Template.pdb
+C:\Users\jjaspe\Documents\Visual Studio 2013\Projects\WallMaze\Canvas Window Template Tests\obj\Debug\Canvas_Window_Template_Tests.dll
+C:\Users\jjaspe\Documents\Visual Studio 2013\Projects\WallMaze\Canvas Window Template Tests\obj\Debug\Canvas_Window_Template_Tests.pdb
+C:\Users\jjaspe\Documents\Git\WallMaze\Canvas Window Template Tests\obj\Debug\Canvas Window Template Tests.csprojResolveAssemblyReference.cache
+C:\Users\jjaspe\Documents\Git\WallMaze\Canvas Window Template Tests\obj\Debug\Canvas_Window_Template_Tests.dll
+C:\Users\jjaspe\Documents\Git\WallMaze\Canvas Window Template Tests\obj\Debug\Canvas_Window_Template_Tests.pdb
+C:\Users\jjaspe\Documents\Git\WallMaze\Canvas Window Template Tests\bin\Debug\Canvas_Window_Template_Tests.dll
+C:\Users\jjaspe\Documents\Git\WallMaze\Canvas Window Template Tests\bin\Debug\Canvas_Window_Template_Tests.pdb
+C:\Users\jjaspe\Documents\Git\WallMaze\Canvas Window Template Tests\bin\Debug\Canvas Window Template.dll
+C:\Users\jjaspe\Documents\Git\WallMaze\Canvas Window Template Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jjaspe\Documents\Git\WallMaze\Canvas Window Template Tests\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\jjaspe\Documents\Git\WallMaze\Canvas Window Template Tests\bin\Debug\ISE.FreeType.dll
+C:\Users\jjaspe\Documents\Git\WallMaze\Canvas Window Template Tests\bin\Debug\Tao.OpenGl.dll
+C:\Users\jjaspe\Documents\Git\WallMaze\Canvas Window Template Tests\bin\Debug\Canvas Window Template.pdb

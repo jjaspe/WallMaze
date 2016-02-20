@@ -1,0 +1,5 @@
+C:\Users\jjaspe\Documents\Git\WallMaze\PerfectMazeSolver\bin\Debug\PerfectMazeSolver.dll
+C:\Users\jjaspe\Documents\Git\WallMaze\PerfectMazeSolver\bin\Debug\PerfectMazeSolver.pdb
+C:\Users\jjaspe\Documents\Git\WallMaze\PerfectMazeSolver\obj\Debug\PerfectMazeSolver.dll
+C:\Users\jjaspe\Documents\Git\WallMaze\PerfectMazeSolver\obj\Debug\PerfectMazeSolver.pdb
+C:\Users\jjaspe\Documents\Git\WallMaze\PerfectMazeSolver\obj\Debug\PerfectMazeSolver.csprojResolveAssemblyReference.cache
